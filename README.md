@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is my blog page, the one that is hosted on https://blog.riki-pedia.org
 
 <!--
 **rkblogs11/rkblogs11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
