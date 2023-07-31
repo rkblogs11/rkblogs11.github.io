@@ -1,4 +1,4 @@
-# Welcome to my blog!! This is where I talk about my life and stuff. The blog is hosted on my website along with my alt accounts, on [Rikipedia](https://blog.riki-pedia.org)
+# Welcome to my blog!! This is where I talk about my life and stuff. The blog is hosted on my website along with my alt accounts, on [Rikipedia](https://riki-pedia.org)
 <!--(this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
