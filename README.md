@@ -1,7 +1,5 @@
-### This is my blog page, the one that is hosted on https://blog.riki-pedia.org
-
-<!--
-**rkblogs11/rkblogs11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my blog!! This is where I talk about my life and stuff. The blog is hosted on my website along with my alt accounts, on [Rikipedia](https://blog.riki-pedia.org)
+<!--(this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
